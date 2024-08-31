@@ -15,7 +15,7 @@ def limpiar_pantalla():
     else:
         os.system('clear')  # Linux o Mac
 
-def annadir_productos_carrito(nombre_producto, cantidad):
+def annadir_productos_carrit(nombre_producto, cantidad):
     limpiar_pantalla()
     producto = next((p for p in productos if p["nombre"] == nombre_producto), None)
 
