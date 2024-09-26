@@ -4,7 +4,7 @@ productos = [
     {"nombre": "Anillo de diamante", "precio": 1000, "cantidad": 5},
     {"nombre": "Anillo de cuarzo", "precio": 20, "cantidad": 8},
     {"nombre": "Anillo de plata", "precio": 200, "cantidad": 12},
-    {"nombre": "Anillo de oro", "precio": 400, "cantidad": 5}
+    {"nombre": "Anillo de oro", "precio": 400, "cantidad": 5} 
 ]
 carrito = []
 
